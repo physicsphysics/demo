@@ -1,0 +1,1 @@
+import pragma solidity ;
